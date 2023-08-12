@@ -5,7 +5,7 @@ will add the math down here so you can calc time it takes on whatever computatio
 
 
 
-wrong math will find updated version later 
+***wrong math will find updated version later - this was coded for crypto puzzle wallet breaking without having all bips** 
 
 ```
 
