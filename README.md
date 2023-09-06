@@ -3,7 +3,7 @@ this allows for precision breaks to limit computation in order to only bruteforc
 this can break into cardano wallets without the need of having all bips. It depends on conputation power but you can run throuhgh full bip lists (2048 bips) at just one bip slot.
 will add the math down here so you can calc time it takes on whatever computation power you have (it is somewhere in a discord chan)
 
-
+###### NOT OPTIMIZED
 
 ***wrong math will find updated version later - this was coded for crypto puzzle wallet breaking without having all bips** 
 
